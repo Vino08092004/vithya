@@ -847,7 +847,7 @@ margin-bottom: 2rem;
     
     }
     .about{
-        padding-top:130%;
+        padding-top:80%;
         position: inherit;
     }
     .about h2 {
@@ -948,6 +948,12 @@ margin-bottom: 2rem;
         }
     .contact-form{
         padding-left: 5px;
+    }
+    .top{
+        position: fixed;
+
+        bottom: 30px;
+        right: 200px;
     }
 }
 
